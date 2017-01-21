@@ -273,7 +273,6 @@ public class basketJDBC {
         rs.close();
         ps.close();
         return jugador;
-        
     } 
     
     
